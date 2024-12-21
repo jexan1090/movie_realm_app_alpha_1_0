@@ -1,5 +1,5 @@
 # movie_realm_app_alpha_1_0
 
-MovieRalm
+MovieRealm
 
 ## Kelompok 7
